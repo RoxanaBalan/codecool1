@@ -1,0 +1,12 @@
+body{
+    background-color: gray
+    margin: 0;
+}
+main{display: inline-block;
+    background-color: aqua;
+width: 100%;
+}
+main >div{
+    background-color: : blue;
+    col
+}
